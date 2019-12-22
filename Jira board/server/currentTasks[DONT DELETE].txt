@@ -1,0 +1,121 @@
+[
+    {
+        "id": "task1",
+        "content": "DATA Synch",
+        "points": 2,
+        "stage": 4,
+        "phase": 1
+    },
+    {
+        "id": "task2",
+        "content": "DB2 vs DL/1",
+        "points": 3,
+        "stage": 4,
+        "phase": 1
+    },
+    {
+        "id": "task3",
+        "content": "MFAE010",
+        "points": 5,
+        "stage": 3,
+        "phase": 1
+    },
+    {
+        "id": "task4",
+        "content": "MFAE020",
+        "points": 8,
+        "stage": 3,
+        "phase": 1
+    },
+    {
+        "id": "task5",
+        "content": "MFAE030",
+        "points": 3,
+        "stage": 3,
+        "phase": 1
+    },
+    {
+        "id": "task6",
+        "content": "MFAE040",
+        "points": 3,
+        "stage": 3,
+        "phase": 1
+    },
+    {
+        "id": "task7",
+        "content": "D2MFCUPD",
+        "points": 8,
+        "stage": 2,
+        "phase": 1
+    },
+    {
+        "id": "task8",
+        "content": "PFCK400",
+        "points": 5,
+        "stage": 2,
+        "phase": 1
+    },
+    {
+        "id": "task9",
+        "content": "PFCK100",
+        "points": 5,
+        "stage": 2,
+        "phase": 1
+    },
+    {
+        "id": "task10",
+        "content": "PFCK200",
+        "points": 5,
+        "stage": 1,
+        "phase": 1
+    },
+    {
+        "id": "task11",
+        "content": "PFCKADR",
+        "points": 5,
+        "stage": 1,
+        "phase": 1
+    },
+    {
+        "id": "task12",
+        "content": "PFCKDA2",
+        "points": 5,
+        "stage": 1,
+        "phase": 1
+    },
+    {
+        "id": "task13",
+        "content": "TFCFRO",
+        "points": 5,
+        "stage": 1,
+        "phase": 1
+    },
+    {
+        "id": "task14",
+        "content": "TFCREO",
+        "points": 5,
+        "stage": 1,
+        "phase": 1
+    },
+    {
+        "id": "task15",
+        "content": "TFCLAE",
+        "points": 5,
+        "stage": 1,
+        "phase": 1
+    },
+    {
+        "id": "task16",
+        "content": "Phase 2",
+        "points": 122,
+        "stage": 1,
+        "phase": 2
+    },
+    {
+        "id": "task17",
+        "content": "Phase 3",
+        "points": 0,
+        "stage": 1,
+        "phase": 3
+    }
+]
