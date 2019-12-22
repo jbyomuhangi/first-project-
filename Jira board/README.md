@@ -17,6 +17,3 @@ Runs only the API <br>
 Open [http://localhost:3030](http://localhost:3030) to view the data.
 You can also make RESTFUL calls to the link to get the data
 
-## User Guide
-[User Guide Documentation](https://confluence-general.sebank.se/display/~S9139B/DFFKUSK+Conversion+Graph+WebApp#DFFKUSKConversionGraphWebApp-UserGuide)
-
